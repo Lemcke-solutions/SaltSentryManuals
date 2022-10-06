@@ -20,7 +20,7 @@ ota:
   password: "1285242ebef1545569b423bdccb15bcf"
 
 dashboard_import:
-  package_import_url: github://esphome/esphome-project-template/project-template-esp32.yaml@v6
+  package_import_url: github://Lemcke-solutions/SaltSentryManuals/blob/main/ESPHome.yaml
 
 wifi:
   ssid: !secret wifi_ssid
