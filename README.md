@@ -23,7 +23,7 @@ If you purchased your Salt Sentry before September 2026, your device shipped wit
 
 | Language | Manual |
 | --- | --- |
-| English | [Manuel EN v1.1.pdf](Old%20manuals/Manuel%20EN%20v1.1.pdf) |
+| English | [Manual EN v1.1.pdf](Old%20manuals/Manual%20EN%20v1.1.pdf) |
 | Nederlands | [Manual NL v1.1.pdf](Old%20manuals/Manual%20NL%20v1.1.pdf) |
 
 ## 3D print files
