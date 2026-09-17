@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/salt-sentry-logo.png" alt="Salt Sentry" width="400">
+</p>
+
 # Salt Sentry Manuals
 
 Manuals for the **Salt Sentry**, a water softener salt level monitor.
